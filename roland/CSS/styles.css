@@ -1,0 +1,90 @@
+/***************TAG SELECTORS****************/
+
+body {
+    background-color: #DFFFD8;
+    /*rgb(85, 85, 236);*/
+    font-family: 'Merriweather',sans-serif;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    width: 20%;
+    margin: 0 auto 0 auto;
+    /*    margin-top: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    */
+}
+
+h2 {
+    font-family: 'Sacramento','Montserrat', cursive;
+
+}
+
+p {
+    font-family: 'Montserrat','Merriweather', sans-serif;
+}
+
+ul {
+    display: inline-block;
+    text-align: left;
+}
+
+/***************CLASS SELECTORS****************/
+
+
+.top-container {
+    background-color: #DFFFD8;
+    padding-top: 100px ;
+    position: relative;
+    /*   border: solid 10px;
+    display: inline-block;
+
+    height: 200px;
+    outline: 1px solid #036cdb!important;
+    padding: 20px;
+    width: 200px;
+*/
+}
+.middle-container {
+/*    background-color: blue;
+    border: solid 20px;
+    display: inline-block;
+    height: 200px;
+    margin-left:260px;
+    width: 200px;
+    position: relative;
+    bottom: 100px;
+*/
+}
+
+.bottom-container{
+/*    background-color: red;
+    border: solid 10px;
+    display: inline-block;
+    height: 200px;
+    margin-left:500px;
+    width: 200px;
+    position: relative;
+    bottom: 500px;
+*/
+}
+
+.bottom-cloud  {
+    position: absolute;
+}
+.top-cloud  {
+    position: absolute;
+    right: 20%;
+}
+
+.fire {
+    
+    position: relative;
+
+}
